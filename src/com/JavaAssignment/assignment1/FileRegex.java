@@ -12,9 +12,7 @@ public class FileRegex {
     {
        File files[] = homeDirectory.listFiles(filter);
         for (File file:files)
-        {
-            System.out.println(file.getName());
-        }
+            System.out.println(file.getAbsolutePath());
     }
 
     public static void main(String args[])

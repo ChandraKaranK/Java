@@ -4,20 +4,25 @@ import java.util.Scanner;
 
 public class Alphabet {
 
-    public void check_alphabets(String input)
+    // Time complexity: Time complexity of the program depends on inputStringAlphabets.containsAll(alphabets)
+    // HashSet(h).containsAll() is O(HashSet(h).size())
+    // i.e Time complexity: O(n) where 'n' is the size of set of inputString( n = size of inputString in worst case)
+    // Similarly, Space Complexity: O(n)
+
+    public void checkAlphabets(String input)
     {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
-        String input_string = input.toLowerCase();
+        String inputString = input.toLowerCase();
 
         HashSet<Character> alphabets = new HashSet<Character>();
         for(int index=0;index<alphabet.length();index++)
             alphabets.add(alphabet.charAt(index));
 
-        HashSet<Character> input_string_alphabets = new HashSet<Character>();
-        for(int index = 0;index < input_string.length(); index++)
-            input_string_alphabets.add(input_string.charAt(index));
+        HashSet<Character> inputStringAlphabets = new HashSet<Character>();
+        for(int index = 0;index < inputString.length(); index++)
+            inputStringAlphabets.add(inputString.charAt(index));
 
-        if(!(input_string_alphabets.containsAll(alphabets)))
+        if(!(inputStringAlphabets.containsAll(alphabets)))
             System.out.println("Given input string doesn't contain all the alphabets");
         else
             System.out.println("Given input string contains all the alphabets");
@@ -33,7 +38,7 @@ public class Alphabet {
         System.out.print("Enter the input string");
         Scanner sc = new Scanner(System.in);
         input_string = sc.nextLine();
-        a.check_alphabets(input_string);
+        a.checkAlphabets(input_string);
 
     }
 }
