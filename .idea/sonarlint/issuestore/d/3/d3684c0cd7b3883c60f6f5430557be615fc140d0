@@ -1,0 +1,13 @@
+
+X
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(»È%
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”‡àÂøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÎ„Íúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸıÉùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùóÿÿÿÿÿ
+?
+java:S1481!")Remove this unused "name" local variable.(í
+Q	java:S125#"<This block of commented-out lines of code should be removed.(”ô—¨
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(¸Ò‰ˆ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(£†ãğúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( –âÊ

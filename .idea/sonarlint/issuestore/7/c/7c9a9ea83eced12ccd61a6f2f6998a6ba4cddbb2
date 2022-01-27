@@ -1,0 +1,9 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "tricycle".(Õ‘µ®8Ù­Ùè/
+@
+java:S1197"*Move the array designators [] to the type.(ŸÃ’±
+]	java:S125"<This block of commented-out lines of code should be removed.(­ªçÀıÿÿÿÿ8¦··Ùè/
+J
+java:S1481"-Remove this unused "tricycle" local variable.(Õ‘µ®8©Ù­Ùè/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…µÄûÿÿÿÿ

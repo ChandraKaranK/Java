@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øúïò
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ûÖÃí
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(è€Ùèùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(“«şªşÿÿÿÿ
+L
+java:S52612"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(ñ¢±~
+S	java:S1065"9Replace this use of System.out or System.err by a logger.( ûÁ¶ÿÿÿÿÿ
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(è€Ùèùÿÿÿÿ8Æñµ‚è/
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Çâú¸üÿÿÿÿ

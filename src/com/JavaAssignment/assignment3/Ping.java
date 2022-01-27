@@ -30,6 +30,7 @@ public class Ping {
             replies.add(output.get(ReplyIndex));
             System.out.println(output.get(ReplyIndex));
         }
+
         findMedian(replies);
     }
 
@@ -49,6 +50,7 @@ public class Ping {
         }
 
         Collections.sort(times);
+
         double median = (times.get(1)+times.get(2))/(2.0);
         System.out.println("\nMedian time for the response is "+median );
 

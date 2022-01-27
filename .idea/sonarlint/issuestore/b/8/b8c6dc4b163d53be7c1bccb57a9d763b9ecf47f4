@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹á©…8³Ùç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øšÏ8¡³Ùç/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’ê¡¡8£³Ùç/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÇ¤Çùÿÿÿÿ8§³Ùç/
+o
+java:S1104"TMake discount a static final constant or non-public and provide accessors if needed.(ÂìÇıÿÿÿÿ
+u
+java:S1104"ZMake deliveryCharge a static final constant or non-public and provide accessors if needed.( „¿Èüÿÿÿÿ

@@ -1,0 +1,9 @@
+
+g	java:S116"RRename this field "my_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ôáï
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãü›îÿÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "name".(Ãü›îÿÿÿÿÿ
+P	java:S125	"<This block of commented-out lines of code should be removed.(·çªP
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦—ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦¾Ö„
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”“ëã8¿ºóÒè/

@@ -1,0 +1,23 @@
+
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "<"(Ñ÷ñïýÿÿÿÿ8›È¹„ç/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ÍäÃþÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ôÚîýÿÿÿÿ8 È¹„ç/
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ŒÕÃš
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÊˆòÙúÿÿÿÿ8ªÈ¹„ç/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(†•ëÙ8ªÈ¹„ç/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ŒÕÃš8®È¹„ç/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(âÇŸüÿÿÿÿ8±È¹„ç/
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ëÁ×Æýÿÿÿÿ8½È¹„ç/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(°¿¦ì8¿È¹„ç/
+L
+java:S1197a"*Move the array designators [] to the type.(º ìýÿÿÿÿ8ÀÈ¹„ç/
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(Ëá¥ì8ÂÈ¹„ç/
+ƒ
+java:S1192"aDefine a constant instead of duplicating this literal "Your Current Account balance is " 3 times.(†ôÚîýÿÿÿÿ8ÃÈ¹„ç/
+e
+java:S2095I"HUse try-with-resources or close this "Connection" in a "finally" clause.(‘úþÓ8ßÈ¹„ç/
+q
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¾Ý˜üÿÿÿÿ8ßÈ¹„ç/
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Ñ÷ñïýÿÿÿÿ8ãÈ¹„ç/

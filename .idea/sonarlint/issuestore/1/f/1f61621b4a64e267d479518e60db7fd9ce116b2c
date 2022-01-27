@@ -1,0 +1,22 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Øú¶Şúÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¦æ‰üÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(½Ê÷õ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ìƒñô
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Üá¤Ü
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(á¢’—
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(”±´Óùÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Ôè»¢
+E
+java:S1197\"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+R
+java:S2209_"5Change this instance-reference to a static reference.(¢ÀÆ½8ı½Âİè/
+W
+java:S2209`"5Change this instance-reference to a static reference.(Æ–Úéÿÿÿÿÿ8ÎàÂİè/
+W
+java:S2209a"5Change this instance-reference to a static reference.(®˜á±ùÿÿÿÿ8ƒ‰Ãİè/
+R
+java:S2209b"5Change this instance-reference to a static reference.(Øäêã8¡¼Ëİè/
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8°›Òİè/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÆËñûÿÿÿÿ

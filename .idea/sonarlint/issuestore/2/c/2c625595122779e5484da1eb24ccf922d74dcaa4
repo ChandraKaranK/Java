@@ -1,0 +1,16 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êü¾í
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(Ô‰„*
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ŞÁâûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«˜¹‚
+L
+java:S1481"1Remove this unused "local_number" local variable.(èğìƒşÿÿÿÿ
+O
+java:S1481"4Remove this unused "local_character" local variable.(Òïùşÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èğìƒşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òïùşÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŠŸû…úÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÙ…²8š»óÒè/

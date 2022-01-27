@@ -1,0 +1,13 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+?
+java:S2140	")Use "java.util.Random.nextInt()" instead.(ê¯æì
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÕªèúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£õœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£õœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–Ù°Õıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤óÆüÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿùæ 8¬ì£åç/
