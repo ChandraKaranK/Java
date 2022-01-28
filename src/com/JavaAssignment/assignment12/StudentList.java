@@ -59,11 +59,11 @@ public class StudentList {
 
     void getMaleAndFemaleCount()
     {
-        Map<Object,List<Student>> maleFemaleStudents =studentsList.stream()
-                    .collect(Collectors.groupingBy(Student::isMale));
+        Map<String,List<Student>> maleFemaleStudents =studentsList.stream()
+                    .collect(Collectors.groupingBy(Student::getGender));
 
-        maleStudents = maleFemaleStudents.get(true);
-        femaleStudents = maleFemaleStudents.get(false);
+        maleStudents = maleFemaleStudents.get("Male");
+        femaleStudents = maleFemaleStudents.get("Female");
 
         System.out.println("Male students:"+maleStudents.size());
         System.out.println("Female students:"+femaleStudents.size());
